@@ -1,7 +1,5 @@
-// import { createPlateau } from './src/plateau';
-// import { createRover, executeInstruction } from './src/rover';
-import { createPlateau } from './src/plateau.js';
-import { createRover, executeInstruction } from './src/rover.js';
+import { createPlateau } from './src/plateau';
+import { createRover, executeInstruction } from './src/rover';
 
 
 // Example usage
