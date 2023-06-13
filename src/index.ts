@@ -1,5 +1,5 @@
-import { createPlateau } from '../src/plateau';
-import { createRover, executeInstruction } from '../src/rover';
+import { createPlateau } from './plateau';
+import { createRover, executeInstruction } from './rover';
 
 
 // Example usage
